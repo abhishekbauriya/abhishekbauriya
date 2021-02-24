@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 ## Who Am I?
 
-I have donw my Bachelors in Electronics & Telecommunication and Engineering from A.P. Shah Institute of Engineering and Technology. I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages. I'm passionate about Machine learning, and Web Development.
+I have done my Bachelors in Electronics & Telecommunication Engineering from A.P. Shah Institute of Engineering and Technology. I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages. I'm passionate about Machine learning, and Web Development.
 
 - 🌱 I’m currently learning various new technologies.
 - 💬 Ask me about anything, I am happy to help;
